@@ -1,0 +1,30 @@
+[33mcommit b854c35a3da76d49ea83487e0055c04567ade1f7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mFSD-excercise/master[m[33m)[m
+Author: Xiaorui <liuxiaorui05@gmail.com>
+Date:   Fri Sep 13 15:11:53 2024 +1000
+
+    练习
+
+[33mcommit 279313576e87a09c8213ad6ae98fe896245fc569[m
+Merge: 47d35be 29ab06f
+Author: Xiaorui <liuxiaorui05@gmail.com>
+Date:   Mon Sep 9 15:15:16 2024 +1000
+
+    Merge branch 'master' of github.com:jiexiaosha/FSD-excercise
+
+[33mcommit 47d35be974f8640d91903c804358c3744cc74af8[m
+Author: Xiaorui <liuxiaorui05@gmail.com>
+Date:   Mon Sep 9 15:10:06 2024 +1000
+
+    练习文件夹
+
+[33mcommit 29ab06f0bb9781f87090c62732828f873d8cf86f[m
+Author: Xiaorui <liuxiaorui05@gmail.com>
+Date:   Mon Sep 9 15:10:06 2024 +1000
+
+    练习文件夹
+
+[33mcommit 8d5fbeb9c476d7920a49cdd651a1307c0ad3b25c[m
+Author: Xiaorui <liuxiaorui05@gmail.com>
+Date:   Mon Sep 9 14:57:19 2024 +1000
+
+    新建了readme文件
